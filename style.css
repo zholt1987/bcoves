@@ -7944,7 +7944,7 @@ h6,
   padding: 0 10px 20px;
   border-bottom: 1px solid #878787;
   overflow: hidden;
-  background-color: #000000;
+  background-color: red;
   height: 100%;
 }
 .home-carousel.with-cta {
